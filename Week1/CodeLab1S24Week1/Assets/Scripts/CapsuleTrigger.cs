@@ -4,14 +4,13 @@ using UnityEngine;
 
 public class CapsuleTrigger : MonoBehaviour
 {
-    public float score;
-    public float pointsPerCollectable = 25;
+    public int pointsPerCollectable = 25;
 
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Collectable"))
         {
-            score += pointsPerCollectable;
+            GameManager.instance.score += pointsPerCollectable;
             Destroy(other.gameObject);
         }
         
