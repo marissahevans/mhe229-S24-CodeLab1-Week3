@@ -1,0 +1,12 @@
+Base path: '/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=metal type=23 mask=6 insize=4085 outsize=4025 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=metal type=24 mask=6 insize=9447 outsize=9387 ok=1
+
+
+Cmd: initializeCompiler
+
