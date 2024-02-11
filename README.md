@@ -1,4 +1,4 @@
-# Homework project for weeks 1, 2 & 3 
+# Homework project for week 3 
 
 This is a 3D game where the player (teal ball) navigates a maze and collects items (pink capsules) using WASD controls. Points are awarded as a linear combination between maximum points and time elapsed between targets. The more time elapsed the fewer points are earned. 
 
