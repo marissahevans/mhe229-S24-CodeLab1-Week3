@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/../Assets/Scripts/CapsuleTrigger.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Assets/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/Scripts/SceneTrigger.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706369058520</updated>
-      <workItem from="1706369062717" duration="5426000" />
+      <workItem from="1706369062717" duration="16808000" />
     </task>
     <servers />
   </component>

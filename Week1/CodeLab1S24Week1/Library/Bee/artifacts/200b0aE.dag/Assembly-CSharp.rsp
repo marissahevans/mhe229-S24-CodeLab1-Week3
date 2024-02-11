@@ -357,6 +357,7 @@
 "Assets/Scripts/CapsuleTrigger.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerControl.cs"
+"Assets/Scripts/SceneTrigger.cs"
 -langversion:9.0
 
 /deterministic
